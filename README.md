@@ -2,12 +2,6 @@
 
 An online store for handmade clay art products.
 
-## 📌 About the Project
-
-**clayArt** is an e-commerce web application designed to showcase and sell handmade clay art products. The project provides a user-friendly interface for browsing products, managing a shopping cart, saving favorite items, and managing user accounts.
-
-The application follows a separated frontend and backend architecture.
-
 ## Features
 
 - Browse and view products
